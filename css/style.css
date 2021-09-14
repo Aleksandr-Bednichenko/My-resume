@@ -25,11 +25,15 @@ body {
     background: #2e3e58;
     width: 370px;
     padding-top: 20px;
-    padding-bottom: 30px;
+    padding-bottom: 20px;
 }
 
 .my-foto{
-    width: 100%; 
+    display: block;
+    width: 80%; 
+    margin-left: auto;
+    margin-right: auto;
+    /* border-radius: 50% 50%; */
 }
 
 .about-me-container{
@@ -40,7 +44,7 @@ body {
 }
 
 .contacts-container{
-    margin-top: 40px;
+    margin-top: 30px;
     margin-left: 40px;
     margin-right: 40px;
 }
@@ -58,7 +62,7 @@ body {
 
 .contacts-position{
 align-content: center;
-margin-bottom: 10px;
+margin-bottom: 5px;
 }
 
 
@@ -103,7 +107,7 @@ margin-bottom: 10px;
 .tech-skils-container{
     margin-left: 40px;
     margin-right: 40px;
-    margin-top: 45px;
+    margin-top: 35px;
 }
 
 .tech-skills-alten{
@@ -123,7 +127,7 @@ margin-bottom: 10px;
 .soft-skils-conteiner{
     margin-left: 40px;
     margin-right: 40px;
-    margin-top: 45px;
+    margin-top: 35px;
 }
 
 .soft-skils-titel{
@@ -148,11 +152,11 @@ margin-bottom: 10px;
 .profession{
     display: flex;
     justify-content: center;
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 700;
     line-height: 24px;
     
-    margin-bottom: 50px;
+    margin-bottom: 40px;
 }
 
 
@@ -160,9 +164,10 @@ margin-bottom: 10px;
 .name{
     display: flex;
     justify-content: center;
-    font-size: 45px;
+    font-size: 25px;
     font-weight: 700;
-    line-height: 89px;
+    margin-bottom: 10px;
+    /* line-height: 89px; */
    
 }
 
@@ -170,19 +175,19 @@ margin-bottom: 10px;
     font-size: 14px;
     font-weight: 400;
     line-height: 24px;
-    margin-top: 24px;
+    margin-top: 10px;
 }
 
-.info-conteiner{
-    margin-bottom: 35px;
+.info-container{
+    margin-bottom: 30px;
 }
 
 .about-me-title{
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 700;
     line-height: 24px;
     
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     border-bottom: 2px solid black;
 }
 
@@ -219,7 +224,7 @@ margin-bottom: 10px;
 }
 
 .projects-container{
-    margin-bottom: 35px;
+    margin-bottom: 30px;
 }
 
 .projects-position{
@@ -255,8 +260,8 @@ margin-bottom: 10px;
     font-size: 16px;
     font-weight: 700;
     line-height: 24px;
-    margin-top: 10px;
-    margin-bottom: 15px;
+    /* margin-top: 10px; */
+    margin-bottom: 10px;
    
 }
 
@@ -294,14 +299,14 @@ margin-bottom: 10px;
 /* education */
 
 .education-element{
-    margin-bottom: 35px;
+    margin-bottom: 30px;
 }
 
 .education-institution{    
     font-size: 16px;
     font-weight: 700;
     line-height: 24px;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
 }
 
 .education-specialty{
@@ -309,18 +314,18 @@ margin-bottom: 10px;
     font-size: 14px;
     font-weight: 700;
     line-height: 24px;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
 }
 
 .education-tytle{
     font-size: 22px;
     font-weight: 700;
     line-height: 24px;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 
 .work-conteiner{
-    margin-bottom: 35px;
+    margin-bottom: 30px;
 }
 
 /* hobbies */
