@@ -24,8 +24,8 @@ body {
 .sidebar{
     background: #2e3e58;
     width: 370px;
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding-top: 20px;
+    padding-bottom: 30px;
 }
 
 .my-foto{
@@ -40,7 +40,7 @@ body {
 }
 
 .contacts-container{
-    margin-top: 60px;
+    margin-top: 40px;
     margin-left: 40px;
     margin-right: 40px;
 }
@@ -96,14 +96,14 @@ margin-bottom: 10px;
     font-size: 22px;
     font-weight: 700;
     line-height: 24px;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     color: #fff;
 }
 
 .tech-skils-container{
     margin-left: 40px;
     margin-right: 40px;
-    margin-top: 55px;
+    margin-top: 45px;
 }
 
 .tech-skills-alten{
@@ -123,14 +123,14 @@ margin-bottom: 10px;
 .soft-skils-conteiner{
     margin-left: 40px;
     margin-right: 40px;
-    margin-top: 55px;
+    margin-top: 45px;
 }
 
 .soft-skils-titel{
     font-size: 22px;
     font-weight: 700;
     line-height: 24px;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     color: #fff;
 }
 
@@ -174,7 +174,7 @@ margin-bottom: 10px;
 }
 
 .info-conteiner{
-    margin-bottom: 55px;
+    margin-bottom: 35px;
 }
 
 .about-me-title{
@@ -219,11 +219,11 @@ margin-bottom: 10px;
 }
 
 .projects-container{
-    margin-bottom: 55px;
+    margin-bottom: 35px;
 }
 
 .projects-position{
-    /* display: flex-box; */
+    
    
     margin-bottom: 5px;
     
@@ -294,7 +294,7 @@ margin-bottom: 10px;
 /* education */
 
 .education-element{
-    margin-bottom: 55px;
+    margin-bottom: 35px;
 }
 
 .education-institution{    
@@ -320,7 +320,7 @@ margin-bottom: 10px;
 }
 
 .work-conteiner{
-    margin-bottom: 55px;
+    margin-bottom: 35px;
 }
 
 /* hobbies */
