@@ -90,7 +90,7 @@ margin-bottom: 10px;
     
   }
 
-
+/* tech-skills */
 
 .tech-skills-title{
     font-size: 22px;
@@ -117,6 +117,8 @@ margin-bottom: 10px;
 .tech-skills-text{
     color: #8e9298;
 }
+
+/* soft-skills */
 
 .soft-skils-conteiner{
     margin-left: 40px;
@@ -152,6 +154,8 @@ margin-bottom: 10px;
     
     margin-bottom: 50px;
 }
+
+
 
 .name{
     display: flex;
@@ -200,6 +204,8 @@ margin-bottom: 10px;
     font-weight: 100;
 }
 
+/* projects */
+
 .projects-item{
     list-style: none;
     font-weight: 700;
@@ -243,7 +249,7 @@ margin-bottom: 10px;
 
 
 
-
+/* profession */
 
 .profession-title{
     font-size: 16px;
@@ -251,7 +257,7 @@ margin-bottom: 10px;
     line-height: 24px;
     margin-top: 10px;
     margin-bottom: 15px;
-    /* color: #ff6b08; */
+   
 }
 
 .profession-list{
@@ -278,21 +284,20 @@ margin-bottom: 10px;
     margin-bottom: 30px;
 }
 
-.profession-duties-item{
-    
-    /* color: #595959; */
+.profession-duties-item{   
     font-size: 14px;
     font-weight: 700;
     line-height: 24px;
-    /* margin-left: 10px; */
+    
 }
+
+/* education */
 
 .education-element{
     margin-bottom: 55px;
 }
 
-.education-institution{
-    /* color: #ff6b08; */
+.education-institution{    
     font-size: 16px;
     font-weight: 700;
     line-height: 24px;
