@@ -4,12 +4,18 @@
   box-sizing: border-box;
 }
 body {
-  /* background: #f5f7fa;
-    padding-top: 40px;
-    padding-bottom: 40px;
-    padding-left: 20px;
-    padding-right: 20px; */
   font-family: Montserrat;
+}
+
+element.style {
+}
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+ul {
+  /* margin-left: -8px; */
 }
 
 .wrapper {
@@ -33,7 +39,6 @@ body {
   width: 80%;
   margin-left: auto;
   margin-right: auto;
-  /* border-radius: 50% 50%; */
 }
 
 .about-me-container {
@@ -177,7 +182,7 @@ body {
   font-weight: 700;
   line-height: 24px;
 
-  margin-bottom: 10px;
+  margin-bottom: 12px;
   border-bottom: 2px solid black;
 }
 
@@ -200,7 +205,9 @@ body {
 }
 
 /* projects */
-
+.projects-list{
+  margin-left: -15px;
+}
 .projects-item {
   list-style: none;
   font-weight: 700;
